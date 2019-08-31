@@ -1,0 +1,64 @@
+{
+	"landing": {
+		"firstName": "Ummul Khair",
+		"lastName": " Fatima",
+        "bio": "I am very passionate about software development and artificial intelligence. My tech stack includes Python , Machine Learning and Javascript. Python for server side and scripting and Javascript for the frontend.",
+        "email": "hoory1020@gmail.com",
+        "linkedin": "https://linkedin.com/in/Ummulfatima",
+        "github": "https://github.com/Ufatima"
+	},
+	"experience": [
+		{
+			"position": "",
+			"organization": "",
+			"aboutWork": "",
+			"fromDate": "",
+			"toDate": ""
+		},
+		{
+			"position": "Research Intern",
+			"organization": "Center for Ubiquitous Computing, University of Oulu, Finland",
+			"aboutWork": "Urban Dictionary-based Semantic Similarity.",
+			"fromDate": "June 2017",
+			"toDate": "August 2017"
+		}
+	],
+	"education": [{
+			"university": "University of Oulu, Finland",
+			"degree": "Master's in Computer Science Engineering"
+		}
+	],
+	"skills": [
+        {
+			"name": "Python"
+		},
+        {
+			"name": "HTML5"
+		},
+		{
+			"name": "CSS3"
+		},
+		{
+			"name": "Javascript"
+		},
+		{
+			"name": "React"
+        },
+        {
+			"name": "Next.js"
+		},
+		{
+			"name": "Nodejs"
+		},
+		{
+			"name": "Flask"
+		},
+		{
+			"name": "Machine Learning"
+		}
+	],
+	"interests": {
+		"paragraphOne": "Apart from being a Software Enginer, I enjoy most of my time being outdoors. In the winter here in Finland I enjoy to go gym and play indoor games. During the warmer months here in Finland, I enjoy fishing, exploring trails near my area.",
+		"paragraphTwo": " I spend a large amount of my free time exploring the latest technology."
+	}
+}
