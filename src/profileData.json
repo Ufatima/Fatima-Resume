@@ -28,12 +28,6 @@
 			"degree": "Master's in Computer Science Engineering"
 		}
 	],
-	"blog": [
-		{
-			"blog1":"http://fatimaoulu.pythonanywhere.com/",
-			"blog2":"https://fatimahcdp.blogspot.com/"
-		}
-	],
 	"skills": [
         {
 			"name": "Python"
