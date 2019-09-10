@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import './App.css';
 import Sidebar from './Components/Sidebar';
 import Landing from './Components/Landing';
@@ -7,7 +7,10 @@ import Experience from './Components/Experience';
 import Education from './Components/Education';
 import Skills from './Components/Skills';
 import Interests from './Components/Interests';
+import Projects from './Components/Projects';
+import Blogs from './Components/Blogs';
 import profileData from './profileData.json';
+
 
 class App extends Component {
   constructor(props) {
@@ -19,7 +22,8 @@ class App extends Component {
       education : profileData.education,
       skills : profileData.skills,
       interests : profileData.interests,
-      awards : profileData.awards
+      projects : profileData.projects,
+      blogs: profileData.blogs
     }
   }
   render() {
@@ -36,6 +40,10 @@ class App extends Component {
           <Skills skills={this.state.skills} />
           <hr className="m-0" />
           <Interests interests={this.state.interests} />
+          <hr className="m-0" />
+          <Projects projects={this.state.projects} />
+          <hr className="m-0" />
+          <Blogs blogs={this.state.blogs} />
         </div>
       </div>
     );

@@ -23,9 +23,14 @@
 			"toDate": "August 2017"
 		}
 	],
-	"education": [{
+	"education": [
+		{
 			"university": "University of Oulu, Finland",
 			"degree": "Master's in Computer Science Engineering"
+		},
+		{
+			"university": "International Islamic University Chittagong, Bangladesh",
+			"degree": "Bachelor's in Computer Science Engineering"
 		}
 	],
 	"skills": [
@@ -60,5 +65,14 @@
 	"interests": {
 		"paragraphOne": "Apart from being a Software Enginer, I enjoy most of my time being outdoors. In the winter here in Finland I enjoy to go gym and play indoor games. During the warmer months here in Finland, I enjoy fishing, exploring trails near my area.",
 		"paragraphTwo": " I spend a large amount of my free time exploring the latest technology."
+	},
+	"projects": {
+		"paragraphOne": " We developed a chat bot that identifies the arguments employed by chatters while having conversation with chat bot to support chatters claims using advanced text analysis techniques",
+		"paragraphTwo": " We developed a web application where a user can create their own dashboards to track different events in a specific area using React.js, Nodejs and Next.js framework.",
+		"paragraphThree": " As a part of my thesis I have developed a web application for detecting events from twitter in real time using python programming and Flask framework"
+	},
+	"blogs": {
+		"paragraphOne":"http://fatimaoulu.pythonanywhere.com/",
+		"paragraphTwo":"https://fatimahcdp.blogspot.com/"
 	}
 }
